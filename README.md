@@ -4,5 +4,5 @@ This project is to detect lane using deeplearning based segmentation(ICNet) and 
 # Youtube video
 link: https://www.youtube.com/watch?v=GVUFTf1LCEA  
 [![Lane detection1](https://img.youtube.com/vi/GVUFTf1LCEA/0.jpg)](https://www.youtube.com/watch?v=GVUFTf1LCEA "Lane detection1")  
-[![Lane detection2](https://img.youtube.com/vi/GVUFTf1LCEA/1.jpg)](https://www.youtube.com/watch?v=GVUFTf1LCEA "Lane detection2"=500x500)  
-[![Lane detection3](https://img.youtube.com/vi/GVUFTf1LCEA/3.jpg)](https://www.youtube.com/watch?v=GVUFTf1LCEA "Lane detection3"=500x500)  
+[![Lane detection2](https://img.youtube.com/vi/GVUFTf1LCEA/1.jpg=500x500)](https://www.youtube.com/watch?v=GVUFTf1LCEA "Lane detection2")  
+[![Lane detection3](https://img.youtube.com/vi/GVUFTf1LCEA/3.jpg=500x500)](https://www.youtube.com/watch?v=GVUFTf1LCEA "Lane detection3")  
