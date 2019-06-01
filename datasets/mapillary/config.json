@@ -1,0 +1,128 @@
+{
+  "labels": [
+    {
+      "color": [
+        255, 
+        255, 
+        255
+      ], 
+      "instances": true, 
+      "readable": "Bird", 
+      "name": "animal--bird", 
+      "evaluate": true
+    }, 
+    {
+      "color": [
+        255, 
+        255, 
+        0
+      ], 
+      "instances": true, 
+      "readable": "Ground Animal", 
+      "name": "animal--ground-animal", 
+      "evaluate": true
+    }, 
+    {
+      "color": [
+        0, 
+        0, 
+        255
+      ], 
+      "instances": false, 
+      "readable": "Curb", 
+      "name": "construction--barrier--curb", 
+      "evaluate": true
+    }, 
+    {
+      "color": [
+        255, 
+        0, 
+        0
+      ], 
+      "instances": false, 
+      "readable": "Fence", 
+      "name": "construction--barrier--fence", 
+      "evaluate": true
+    }, 
+    {
+      "color": [
+        255, 
+        155, 
+        0
+      ], 
+      "instances": false, 
+      "readable": "Guard Rail", 
+      "name": "construction--barrier--guard-rail", 
+      "evaluate": true
+    }, 
+    {
+      "color": [
+        255, 
+        155, 
+        155
+      ], 
+      "instances": false, 
+      "readable": "Barrier", 
+      "name": "construction--barrier--other-barrier", 
+      "evaluate": true
+    }, 
+    {
+      "color": [
+        0, 
+        85, 
+        0
+      ], 
+      "instances": false, 
+      "readable": "Wall", 
+      "name": "construction--barrier--wall", 
+      "evaluate": true
+    }, 
+    {
+      "color": [
+        200, 
+        255, 
+        200
+      ], 
+      "instances": false, 
+      "readable": "Bike Lane", 
+      "name": "construction--flat--bike-lane", 
+      "evaluate": true
+    }, 
+    {
+      "color": [
+        255, 
+        200, 
+        255
+      ], 
+      "instances": true, 
+      "readable": "Crosswalk - Plain", 
+      "name": "construction--flat--crosswalk-plain", 
+      "evaluate": true
+    }, 
+    {
+      "color": [
+        155, 
+        155, 
+        255
+      ], 
+      "instances": false, 
+      "readable": "Curb Cut", 
+      "name": "construction--flat--curb-cut", 
+      "evaluate": true
+    }, 
+    {
+      "color": [
+        0, 
+        0, 
+        0
+      ], 
+      "instances": false, 
+      "readable": "Unlabeled", 
+      "name": "void--unlabeled", 
+      "evaluate": false
+    }
+  ], 
+  "version": 1.1, 
+  "mapping": "public", 
+  "folder_structure": "{split}/{content}/{key:.{22}}.{ext}"
+}
